@@ -9,4 +9,5 @@ it's consist of detail GenAI notes
 |Day 3 ( LangChain Components )| [Explanation Link](https://x.com/Sachintukumar/status/1905083895961247929) 
 |Day 4 ( LangChain Models )| [Explanation Link](https://x.com/Sachintukumar/status/1906027885573648739) 
 |Day 5 ( Prompts in LangChain )| [Explanation Link](https://x.com/Sachintukumar/status/1906290036867309753) 
+|Day 6 ( Structured Output in Langchain )| [Explanation Link](https://x.com/Sachintukumar/status/1907480981461725380) 
 
