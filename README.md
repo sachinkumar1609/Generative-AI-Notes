@@ -12,6 +12,10 @@ it's consist of detail GenAI notes
 |Day 6 ( Structured Output in Langchain )| [Explanation Link](https://x.com/Sachintukumar/status/1907480981461725380) 
 |Day 7 ( Output Parsers in LangChain )| [Explanation Link](https://x.com/Sachintukumar/status/1907839943097086408) 
 |Day 8 ( Understanding Chains in LangChain )| [Explanation Link](https://x.com/Sachintukumar/status/1908418079005999409) 
+|Day 9 ( Runnables in Langchain )| [Explanation Link](https://x.com/Sachintukumar/status/1909303375469949389) 
+|Day 10 ( Runnables in Langchain (2nd Part) )| [Explanation Link](https://x.com/Sachintukumar/status/1909795756807954628) 
+|Day 11 ( Document Loaders in LangChain )| [Explanation Link](https://x.com/Sachintukumar/status/1910522684569419776) 
+
 
 
 
