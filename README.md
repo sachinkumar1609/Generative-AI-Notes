@@ -15,6 +15,8 @@ it's consist of detail GenAI notes
 |Day 9 ( Runnables in Langchain )| [Explanation Link](https://x.com/Sachintukumar/status/1909303375469949389) 
 |Day 10 ( Runnables in Langchain (2nd Part) )| [Explanation Link](https://x.com/Sachintukumar/status/1909795756807954628) 
 |Day 11 ( Document Loaders in LangChain )| [Explanation Link](https://x.com/Sachintukumar/status/1910522684569419776) 
+|Day 12 ( Text Splitters in LangChain )| [Explanation Link](https://x.com/Sachintukumar/status/1911090266758406452) 
+
 
 
 
