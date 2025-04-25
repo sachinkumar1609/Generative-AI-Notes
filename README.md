@@ -18,7 +18,7 @@ it's consist of detail GenAI notes
 |Day 12 ( Text Splitters in LangChain )| [Explanation Link](https://x.com/Sachintukumar/status/1911090266758406452) 
 |Day 13 ( Vector Store in LangChain )| [Explanation Link](https://x.com/Sachintukumar/status/1913659819430465758) 
 |Day 14 ( Retrievers in LangChain )| [Explanation Link](https://x.com/Sachintukumar/status/1913859730071511175) 
-|Day 12 ( What is RAG & How does RAG Work )| [Explanation Link](https://x.com/Sachintukumar/status/1915835404348989723) 
+|Day 15 ( What is RAG & How does RAG Work )| [Explanation Link](https://x.com/Sachintukumar/status/1915835404348989723) 
 
 
 
