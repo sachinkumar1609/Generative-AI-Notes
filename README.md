@@ -1,5 +1,5 @@
 # Generative-AI-Notes
-it's consist of detail GenAI notes
+it's consist of detail GenAI notes.
 
 
 |Daywise| Blog |
