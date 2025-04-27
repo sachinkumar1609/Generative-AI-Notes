@@ -19,6 +19,8 @@ it's consist of detail GenAI notes
 |Day 13 ( Vector Store in LangChain )| [Explanation Link](https://x.com/Sachintukumar/status/1913659819430465758) 
 |Day 14 ( Retrievers in LangChain )| [Explanation Link](https://x.com/Sachintukumar/status/1913859730071511175) 
 |Day 15 ( What is RAG & How does RAG Work )| [Explanation Link](https://x.com/Sachintukumar/status/1915835404348989723) 
+|Day 16 ( Building a RAG system in LangChain & YouTube Chatbot using LangChain )| [Explanation Link](https://x.com/Sachintukumar/status/1916176422667760033) 
+|Day 17 ( Tools & Tool Calling in LangChain )| [Explanation Link](https://x.com/Sachintukumar/status/1916467190624026749) 
 
 
 
